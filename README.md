@@ -18,8 +18,8 @@
 
 ## 📫 How to reach me
 - Email: **alim.210125@s.pust.ac.bd**  
-- LinkedIn: [Add your LinkedIn link here]  
-- Portfolio: [Add your portfolio link here]  
+- LinkedIn: 
+- Portfolio:
 
 ---
 
@@ -40,24 +40,23 @@
 ## 🚀 Projects
 
 ### 1. Social Media App
-- MERN Stack | Real-time Chat | Redux | Responsive UI  
-- [Live Demo](https://social-media-frontend-sigma-rosy.vercel.app/) | [GitHub](https://github.com/ALIM23700/social-media-frontend)
+- MERN Stack | Real-time Chat | notifiacation | Redux | Responsive UI  
+- [Live Demo](https://social-media-frontend-sigma-rosy.vercel.app/) | [GitHub](https://github.com/ALIM23700/SocialMedia_Frontend)
 <p align="center">
-  <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556936/social-1_kojjod.png" width="600"/>
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556936/social-1_kojjod.png" width="600"/>
 </p>
 
 ### 2. E-Commerce Website
-- React | Tailwind CSS | Firebase Authentication | Cart System  
-- [Live Demo](https://fullstack-ecommers-frontend.vercel.app/) | [GitHub](https://github.com/ALIM23700/fullstack-ecommers-frontend)
+- React | Tailwind CSS | JWT Authentication | Payment Gateway| Admin DashBoard | Cart System  
+- [Live Demo](https://fullstack-ecommers-frontend.vercel.app/) | [GitHub](https://github.com/ALIM23700/FullstackEcommers_Frontend)
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556740/e-com1_txmtzw.png" width="600"/>
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556788/e-com2_rpebgn.png" width="600"/>
 </p>
 
 ### 3. University Assistant
-- Fullstack Project | React + Node.js + MongoDB | Dashboard & Features  
-- [Live Demo](https://fullstack-university-assistant-fron.vercel.app/) | [GitHub](https://github.com/ALIM23700/fullstack-university-assistant-frontend)
+- Fullstack Project | React + Express.js + MongoDB | Dashboard & Features  
+- [Live Demo](https://fullstack-university-assistant-fron.vercel.app/) | [GitHub](https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend)
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556508/uni_jg3g95.png" width="600"/>
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556549/uni2_osn5dt.png" width="600"/>
@@ -76,4 +75,16 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alim23700" alt="alim23700"/>
+</p>
+
+---
+
+## 📈 Extra GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alim23700&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/commits/monthly/alim23700.svg" alt="Monthly Commits"/>
+  <img src="https://badges.pufler.dev/commits/yearly/alim23700.svg" alt="Yearly Commits"/>
 </p>
