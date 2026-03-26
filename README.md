@@ -78,13 +78,3 @@
 </p>
 
 ---
-
-## 📈 Extra GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alim23700&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://badges.pufler.dev/commits/monthly/alim23700.svg" alt="Monthly Commits"/>
-  <img src="https://badges.pufler.dev/commits/yearly/alim23700.svg" alt="Yearly Commits"/>
-</p>
