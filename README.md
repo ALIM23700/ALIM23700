@@ -41,7 +41,7 @@
 
 ### 1. Social Media App
 - MERN Stack | Real-time Chat | notifiacation | Redux | Responsive UI  
-- [Live Demo](https://social-media-frontend-sigma-rosy.vercel.app/) | [GitHub](https://github.com/ALIM23700/SocialMedia_Frontend)
+- [Live Demo](https://social-media-frontend-sigma-rosy.vercel.app/) | [GitHub](https://github.com/ALIM23700/social-media-fullstack)
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556936/social-1_kojjod.png" width="600"/>
 </p>
