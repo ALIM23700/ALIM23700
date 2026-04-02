@@ -48,7 +48,7 @@
 
 ### 2. E-Commerce Website
 - React | Tailwind CSS | JWT Authentication | Payment Gateway| Admin DashBoard | Cart System  
-- [Live Demo](https://fullstack-ecommers-frontend.vercel.app/) | [GitHub](https://github.com/ALIM23700/FullstackEcommers_Frontend)
+- [Live Demo](https://fullstack-ecommers-frontend.vercel.app/) | [GitHub](https://github.com/ALIM23700/fullstack-ecommerce)
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556740/e-com1_txmtzw.png" width="600"/>
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556788/e-com2_rpebgn.png" width="600"/>
@@ -56,7 +56,7 @@
 
 ### 3. University Assistant
 - Fullstack Project | React + Express.js + MongoDB | Dashboard & Features  
-- [Live Demo](https://fullstack-university-assistant-fron.vercel.app/) | [GitHub](https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend)
+- [Live Demo](https://fullstack-university-assistant-fron.vercel.app/) | [GitHub](https://github.com/ALIM23700/University-Assistant-Fullstack)
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556508/uni_jg3g95.png" width="600"/>
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556549/uni2_osn5dt.png" width="600"/>
