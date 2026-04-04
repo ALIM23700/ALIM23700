@@ -1,10 +1,21 @@
-Hi 👋, I'm Md. Abdul Alim  
-🚀 MERN Stack Developer | CSE Student  
+# Hi 👋, I'm Md. Abdul Alim
 
-I build full-stack web applications using React, Node.js, Express, and MongoDB.  
-Focused on creating scalable, user-friendly, and real-world projects.  
+## 🚀 MERN Stack Developer | CSE Student
 
-🛠 Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
+I build **full-stack web applications** using **React, Node.js, Express, and MongoDB**,  
+focused on creating **scalable, user-friendly, and real-world projects**.
+
+---
+
+## 🛠 Tech Stack
+**React | Node.js | Express | MongoDB | Tailwind CSS**
+
+---
+
+## 💬 Ask me about
+**React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS**
+
+---
 
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1773735192/posts/fypxty4goykry6k5ujyv.jpg" width="150" style="border-radius:50%"/>
@@ -13,11 +24,6 @@ Focused on creating scalable, user-friendly, and real-world projects.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alim23700&label=Profile%20views&color=0e75b6&style=flat" alt="alim23700" />
 </p>
-
----
-
-## 💬 Ask me about
-**React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS**
 
 ---
 
