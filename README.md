@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Md. Abdul Alim</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+Hi 👋, I'm Md. Abdul Alim  
+🚀 MERN Stack Developer | CSE Student  
+
+I build full-stack web applications using React, Node.js, Express, and MongoDB.  
+Focused on creating scalable, user-friendly, and real-world projects.  
+
+🛠 Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
 
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1773735192/posts/fypxty4goykry6k5ujyv.jpg" width="150" style="border-radius:50%"/>
