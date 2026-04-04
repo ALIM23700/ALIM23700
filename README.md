@@ -18,7 +18,6 @@
 
 ## 📫 How to reach me
 - Email: **alim.210125@s.pust.ac.bd**  
-- LinkedIn: 
 - Portfolio:https://portfolio-green-xi-85.vercel.app/
 
 ---
