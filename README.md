@@ -30,6 +30,7 @@ focused on creating **scalable, user-friendly, and real-world projects**.
 ## 📫 How to reach me
 - Email: **alim.210125@s.pust.ac.bd**  
 - Portfolio:https://portfolio-green-xi-85.vercel.app/
+- Linkedin:https://www.linkedin.com/in/abdul-alim-cse-pust/
 
 ---
 
