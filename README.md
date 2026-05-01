@@ -26,7 +26,7 @@ React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, REST APIs
 ## 📫 How to reach me
 - Email: **alim.210125@s.pust.ac.bd**  
 - Portfolio: https://portfolio-green-xi-85.vercel.app/  
-- LinkedIn: https://www.linkedin.com/in/abdul-alim-cse-pust/
+- LinkedIn: https://www.linkedin.com/in/abdul-alim23700/
 
 ---
 
@@ -46,15 +46,22 @@ React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, REST APIs
 ---
 
 ## 🚀 Projects
+### 1. Think Mirror AI Chatbot
+- MERN Stack | AI-powered decision analysis | Review Thoughts | Gemini API Integration  
+- [Live Demo](https://think-mirror-frontend.vercel.app/) | [GitHub](https://github.com/ALIM23700/Fullstack_ThinkMirror)
 
-### 1. Social Media App
+<p align="center">
+  <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1777670976/think_rqc4os.png" width="600"/>
+</p>
+
+### 2. Social Media App
 - MERN Stack | Real-time Chat | notifiacation | Redux | Responsive UI  
 - [Live Demo](https://social-media-frontend-sigma-rosy.vercel.app/) | [GitHub](https://github.com/ALIM23700/social-media-fullstack)
 <p align="center">
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556936/social-1_kojjod.png" width="600"/>
 </p>
 
-### 2. E-Commerce Website
+### 3. E-Commerce Website
 - React | Tailwind CSS | JWT Authentication | Payment Gateway| Admin DashBoard | Cart System  
 - [Live Demo](https://fullstack-ecommers-frontend.vercel.app/) | [GitHub](https://github.com/ALIM23700/fullstack-ecommerce)
 <p align="center">
@@ -62,7 +69,7 @@ React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, REST APIs
   <img src="https://res.cloudinary.com/dgl0u43fi/image/upload/v1774556788/e-com2_rpebgn.png" width="600"/>
 </p>
 
-### 3. University Assistant
+### 4. University Assistant
 - Fullstack Project | React + Express.js + MongoDB | Dashboard & Features  
 - [Live Demo](https://fullstack-university-assistant-fron.vercel.app/) | [GitHub](https://github.com/ALIM23700/University-Assistant-Fullstack)
 <p align="center">
