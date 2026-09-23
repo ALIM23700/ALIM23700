@@ -2,20 +2,20 @@
 
 ## 🚀 MERN Stack Developer | CSE Graduate
 
-I build **full-stack web applications** using **React, Node.js, Express, and MongoDB**,
+I build **full-stack web applications** using **React,Next.js, Node.js, Express, and MongoDB**,
 focused on creating **scalable, user-friendly, and real-world projects**.
 
 ---
 
 ## 🛠 Tech Stack
 
-React • Node.js • Express • MongoDB • Tailwind CSS • JavaScript • TypeScript (learning)
+React • Node.js • Express • MongoDB • Tailwind CSS • JavaScript • TypeScript • Next.js
 
 ---
 
 ## 💬 Ask me about
 
-React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, REST APIs
+React, JavaScript,Next.js, Node.js, Express, MongoDB, Tailwind CSS, REST APIs
 
 ---
 
@@ -91,14 +91,6 @@ React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, REST APIs
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alim23700&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alim23700&show_icons=true&locale=en" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alim23700" />
